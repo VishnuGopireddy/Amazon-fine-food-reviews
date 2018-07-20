@@ -11,11 +11,11 @@
 <hr>
 </ul>
 <h3> 1. Exploratory data analysis on Amazon fine food reviews dataset.</h3>
-<p>&nbsp &nbsp &nbsp &nbsp Perform exploratory data analysis on whole data with seaborn, wordcloud </p>
+<p>&nbsp &nbsp &nbsp &nbsp Perform exploratory data analysis on whole data with seaborn, wordcloud.</p>
 <hr>
 <h3> 2. Perform text sentimental analysis on Amazon fine food reviews</h3>
 <ul>
-<li>There are large number of reviews in the dataset working with such large reviews can run out of memory and system crashes. So we take a sample of 1,00,000 reviews</li>
+<li>There are large number of reviews in the dataset working with such large reviews can run out of memory and system crashes. So we take a sample of 1,00,000 reviews.</li>
 <li>Considering only reviews column for text analysis.</li>
 </ul>
 <h3>Featurization</h3>
