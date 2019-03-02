@@ -14,6 +14,10 @@
 <h3> 1. Exploratory data analysis on Amazon fine food reviews dataset.</h3>
 <p>&nbsp &nbsp &nbsp &nbsp Perform exploratory data analysis on whole data with seaborn, wordcloud.</p>
 <hr>
+
+### Generated Wordcloud on reviews
+<p> <img src="wordlcloud.png", width=500,height=500> </p>
+
 <h3> 2. Perform text sentimental analysis on Amazon fine food reviews</h3>
 <ul>
 <li>There are large number of reviews in the dataset working with such large reviews can run out of memory and system crashes. So we take a sample of 1,00,000 reviews.</li>
@@ -25,7 +29,6 @@
 <li> tfidf vectorization </li>
 </ul>
 
-<p> <img src="wordcloud.png", width=500,height=500> </p>
 
 <h3>Machine Learning Model</h3>
 <ul> 
