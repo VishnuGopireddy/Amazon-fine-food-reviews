@@ -1,4 +1,5 @@
 # Amazon-fine-food-reviews
+
 <h3>Dataset: </h3>
 <ul> 
 
@@ -23,6 +24,8 @@
 <li> Bag Of Words </li>
 <li> tfidf vectorization </li>
 </ul>
+
+<p> <img src="wordcloud.png", width=500,height=500> </p>
 
 <h3>Machine Learning Model</h3>
 <ul> 
